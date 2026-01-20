@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Checkpoints (large files)
+checkpoints/
+checkpoints_xl/
+*.pt
+*.pth
+
+# Logs
+*.log
+trading_signals.jsonl
+
+# Environment
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+*.swp
+
+# Large data dirs (not part of repo)
+alpamayo_code/
+alpasim/
+carla/
+carla-alpamayo/
+clara/
+cache/
+datasets/
+docker_images/
+huggingface_cache/
+models/
+ollama_models/
+living_ai/

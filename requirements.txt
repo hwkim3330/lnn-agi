@@ -1,0 +1,16 @@
+# Core
+torch>=2.0.0
+numpy>=1.24.0
+
+# Vision
+pillow>=10.0.0
+mss>=9.0.0
+
+# Input injection
+pyautogui>=0.9.54
+
+# Optional: Better vision encoder
+# transformers>=4.40.0
+
+# Optional: Docker control
+# docker>=7.0.0
